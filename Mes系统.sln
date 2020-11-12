@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mes.UI", "Mes.UI\Mes.UI.csproj", "{7D81CE93-E530-41A0-B3D4-41DA08C0137A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mes.Model", "Mes.Model\Mes.Model.csproj", "{28B33B7A-0BED-43A9-9E6F-4DE2F86F852B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D81CE93-E530-41A0-B3D4-41DA08C0137A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D81CE93-E530-41A0-B3D4-41DA08C0137A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D81CE93-E530-41A0-B3D4-41DA08C0137A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D81CE93-E530-41A0-B3D4-41DA08C0137A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B33B7A-0BED-43A9-9E6F-4DE2F86F852B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B33B7A-0BED-43A9-9E6F-4DE2F86F852B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B33B7A-0BED-43A9-9E6F-4DE2F86F852B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B33B7A-0BED-43A9-9E6F-4DE2F86F852B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E9F829-C5AF-47AC-855A-151981FC4273}
+	EndGlobalSection
+EndGlobal
